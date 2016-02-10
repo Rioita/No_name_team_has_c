@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1454750575 source:c:\paint\main.cpp
+	<iostream>
+
+1455124037 source:c:\paint\src\cell.cpp
+	"cell.h"
+
+1455123554 c:\paint\include\cell.h
+
+1455124109 source:c:\paint\src\open_analis.cpp
+	"open_analis.h"
+
+1455124629 c:\paint\include\open_analis.h
+	<vector>
+	"cell.h"
+
